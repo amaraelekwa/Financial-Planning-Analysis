@@ -10,3 +10,5 @@ The Excel template contains
 - A capital investment appraisal that shows the net present value of cash inflows and outflows from a project
 - A budget vs actual report for key financial KPI's
 - A note to the Income Statement and Balance Sheet accounts
+- A Financial Ratios Report
+- A Working capital utilization report
