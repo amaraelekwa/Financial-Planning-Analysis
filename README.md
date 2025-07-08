@@ -1,4 +1,4 @@
-# Financial-Planning-Analysis
+# Financial-Planning and-Analysis
 This repository contains all the projects and templates relating to financial planning and analysis
 The Excel template contains
 - A cover page: Containing the name of the business, the purpose of the report, and the date of reporting
