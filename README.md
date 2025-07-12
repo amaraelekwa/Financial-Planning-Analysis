@@ -2,7 +2,7 @@
 This repository contains all the projects and templates relating to financial reporting, planning, and analysis
 The Excel template contains
 - A cover page: Containing the name of the business, the purpose of the report, and the reporting date
-- A forecast and actual profit and loss statement with scenario analysis per year
+- A Actual vs Forecast Profit and Loss Statement with scenario analysis per year
 - Income Statements by Segments - Warehouse, Profit Centres and Cities
 - A monthly profit and loss statement
 - A monthly Statement of Financial Position
